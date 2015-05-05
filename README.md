@@ -3,6 +3,8 @@ App to draw using the harmony search algorithm. Syphon friendly.
 
 made with: http://processing.org
 
+![alt tag](http://armdz.com/random/img/sktch.png)
+
 # Libraries
 
 Syphon: https://github.com/Syphon/Processing/releases
